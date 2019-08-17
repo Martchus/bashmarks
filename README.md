@@ -9,11 +9,11 @@
 
 ## Shell Commands
 
-    s <bookmark_name> - Saves the current directory as "bookmark_name"
-    g <bookmark_name> - Goes (cd) to the directory associated with "bookmark_name"
-    p <bookmark_name> - Prints the directory associated with "bookmark_name"
-    d <bookmark_name> - Deletes the bookmark
-    l                 - Lists all available bookmarks
+    bmk <bookmark_name> - Saves the current directory as "bookmark_name"
+    bcd <bookmark_name> - Goes (cd) to the directory associated with "bookmark_name"
+    bpr <bookmark_name> - Prints the directory associated with "bookmark_name"
+    brm <bookmark_name> - Deletes the bookmark
+    bls                 - Lists all available bookmarks
     
 ## Example Usage
 
